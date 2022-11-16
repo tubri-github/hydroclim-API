@@ -1,0 +1,7 @@
+flask
+psycopg2
+sqlalchemy
+flask-restful
+flask-restplus
+geojson
+geoalchemy2
